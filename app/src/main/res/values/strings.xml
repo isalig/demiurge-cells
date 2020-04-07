@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demiurge cells</string>
+    <string name="app_title">Клеточное наполнение</string>
+    <string name="create_cell">Cотворить</string>
+    <string name="dead_cell_title">Мёртвая</string>
+    <string name="dead_cell_description">или прикидывается</string>
+    <string name="alive_cell_title">Живая</string>
+    <string name="alive_cell_description">и шевелится!</string>
+    <string name="creature_title">Жизнь</string>
+    <string name="creature_description">Ку-ку!</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='Demiurge cells'
+include ':app'
